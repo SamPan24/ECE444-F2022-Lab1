@@ -1,5 +1,6 @@
 # ECE444-F2022-Lab1
 Sam Pan
+
 Activity 1: First Commit Screenshot
 
 <img width="1302" alt="First Commit Screenshot" src="https://user-images.githubusercontent.com/74392347/190724855-4baa73d5-5a01-4729-9b73-6d4f8ac307be.png">
@@ -26,7 +27,13 @@ screenshot of Parth's change to my repo:
 
 Activity 5
 
-[Screenshots of the commands that you used to rebase along with their outpus]
+Rebase Merge Conflict Resolution:
+
+<img width="641" alt="Rebase Merge Conflict Resolution" src="https://user-images.githubusercontent.com/74392347/191127289-6644d060-f995-4286-a76a-700619859b4e.png">
+
+Successful Rebase Screenshot:
+
+<img width="672" alt="Successful Rebase" src="https://user-images.githubusercontent.com/74392347/191127309-e75313d8-8d4b-4b6e-abf3-7553e92588aa.png">
 
 Activity 6
 
