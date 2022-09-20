@@ -37,7 +37,7 @@ Successful Rebase Screenshot:
 
 Activity 6
 
-[Link to your ECE444-F2022-Lab1-EP repo]
+https://github.com/SamPan24/ECE444-F2022-EP.git
 
 Activity 7
 
