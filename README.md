@@ -41,9 +41,11 @@ https://github.com/SamPan24/ECE444-F2022-EP.git
 
 Activity 7
 
-
+<img width="1650" alt="EP-Sam Pan" src="https://user-images.githubusercontent.com/74392347/191589328-55bdf2e4-8852-46c1-a397-0c0c9dcc08cc.png">
 
 [Screenshot of your rebase command]
+
+<img width="662" alt="Rebase Success Screenshot" src="https://user-images.githubusercontent.com/74392347/191589347-2ab328d4-8d6f-4b39-a0c7-a5342d769f5d.png">
 
 Activity 8
 
