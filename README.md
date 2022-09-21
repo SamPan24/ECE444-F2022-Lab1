@@ -49,7 +49,8 @@ Activity 7
 
 Activity 8
 
-
+<img width="1673" alt="New Button and Name" src="https://user-images.githubusercontent.com/74392347/191592356-b0b67c4c-62bb-4740-b26c-9731bdc0b093.png">
 
 [Screenshot of your rebase command]
 
+<img width="656" alt="Rebase screenshot" src="https://user-images.githubusercontent.com/74392347/191592370-714e9f60-bbd2-498b-9533-d9c2497ba0f4.png">
